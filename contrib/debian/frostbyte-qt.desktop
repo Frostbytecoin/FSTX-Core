@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Frostbyte
+Comment=Frostbyte P2P Cryptocurrency
+Comment[fr]=Frostbyte, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Frostbyte, eşten eşe kriptografik sanal para birimi
+Exec=frostbyte-qt %u
+Terminal=false
+Type=Application
+Icon=frostbyte128
+MimeType=x-scheme-handler/frostbyte;
+Categories=Office;Finance;

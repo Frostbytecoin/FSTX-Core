@@ -1,0 +1,30 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/frostbyte_bg.qm</file>
+        <file alias="ca">locale/frostbyte_ca.qm</file>
+        <file alias="cs">locale/frostbyte_cs.qm</file>
+        <file alias="da">locale/frostbyte_da.qm</file>
+        <file alias="de">locale/frostbyte_de.qm</file>
+        <file alias="en">locale/frostbyte_en.qm</file>
+        <file alias="en_US">locale/frostbyte_en_US.qm</file>
+        <file alias="es">locale/frostbyte_es.qm</file>
+        <file alias="fi">locale/frostbyte_fi.qm</file>
+        <file alias="fr_FR">locale/frostbyte_fr_FR.qm</file>
+        <file alias="hr">locale/frostbyte_hr.qm</file>
+        <file alias="it">locale/frostbyte_it.qm</file>
+        <file alias="ja">locale/frostbyte_ja.qm</file>
+        <file alias="ko_KR">locale/frostbyte_ko_KR.qm</file>
+        <file alias="nl">locale/frostbyte_nl.qm</file>
+        <file alias="pl">locale/frostbyte_pl.qm</file>
+        <file alias="pt">locale/frostbyte_pt.qm</file>
+        <file alias="pt_BR">locale/frostbyte_pt_BR.qm</file>
+        <file alias="ro_RO">locale/frostbyte_ro_RO.qm</file>
+        <file alias="ru">locale/frostbyte_ru.qm</file>
+        <file alias="sk">locale/frostbyte_sk.qm</file>
+        <file alias="sv">locale/frostbyte_sv.qm</file>
+        <file alias="tr">locale/frostbyte_tr.qm</file>
+        <file alias="uk">locale/frostbyte_uk.qm</file>
+        <file alias="zh_CN">locale/frostbyte_zh_CN.qm</file>
+        <file alias="zh_TW">locale/frostbyte_zh_TW.qm</file>
+    </qresource>
+</RCC>

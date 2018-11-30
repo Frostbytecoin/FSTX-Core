@@ -1,0 +1,26 @@
+# /etc/conf.d/frostbyted: config file for /etc/init.d/frostbyted
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/frostbyte/frostbyte.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/frostbyted"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/frostbyted.pid"
+
+# Where to write frostbyted data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/frostbyted"
+
+# User and group to own frostbyted process
+#BITCOIND_USER="frostbyte"
+#BITCOIND_GROUP="frostbyte"
+
+# Path to frostbyted executable
+#BITCOIND_BIN="/usr/bin/frostbyted"
+
+# Nice value to run frostbyted under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""
