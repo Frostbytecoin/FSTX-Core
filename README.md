@@ -3,7 +3,7 @@
 Frostbyte Coin is an open source virtual unit of account, processed via publicly accessible, Mine-able, Blockchain system for instantaneuous processing of peer-to-peer cashless payment transactions.
 
 ## Official Link  
-**[Website](https://frostbytecoin.io/) | [Explorer](https://chain.frostbytecoin.io) | [Official Ann]() | [Discord]() | [Masternode Guide](https://discord.gg/YgAvQyU)
+**[Website](https://frostbytecoin.io/) | [Explorer](https://chain.frostbytecoin.io) | [Official Ann]() | [Discord]() | [Masternode Guide](https://discord.gg/YgAvQyU)**
 
 
 
