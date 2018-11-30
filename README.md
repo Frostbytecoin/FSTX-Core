@@ -28,7 +28,7 @@ Frostbyte Coin is an open source virtual unit of account, processed via publicly
 
 ## Reward Distribution
 <table>
-<tr><td><b>◆BLOCK HEIGHTS</b></td><td><b>◆TYPE</b></td><td><b>◆POS(%)</b></td><td><b>◆MN(%)</b></td><td><b>◆BLOCK REWARD</b></td><td><b>◆COLLATERAL</b></td></tr>
+<tr><td><b>◆BLOCK HEIGHTS</b></td><td><b>◆TYPE</b></td><td><b>◆BLOCK REWARD</b></td><td><b>◆MN(%)</b></td><td><b>◆POS(%)</b></td><td><b>◆COLLATERAL</b></td></tr>
 <tr><td>1-1000</td><td>POW</td><td>1.5</td><td> 70% </td><td> 30% </td><td>2500</td></tr>
 <tr><td>1001 - 69001</td><td>POS</td><td>12</td><td> 70% </td><td> 30% </td><td>10000</td></tr>
 <tr><td>69001 - 86401</td><td>POS</td><td>20</td><td> 70% </td><td> 30% </td><td>10000</td></tr>
